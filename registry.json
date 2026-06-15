@@ -11,6 +11,7 @@
       "files": [
         {
           "path": "src/action-composer.tsx",
+          "target": "components/action-composer.tsx",
           "type": "registry:file"
         }
       ]
