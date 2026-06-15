@@ -1,0 +1,21 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "your-registry-name",
+  "homepage": "https://github.com/shivam-jainn/action-composer",
+  "items": [
+    {
+      "name": "action-composer",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "files": [
+        {
+          "path": "registry/action-composer/action-composer.tsx",
+          "target": "components/ui/action-composer.tsx"
+        }
+      ],
+      "dependencies": [
+        "framer-motion"
+      ]
+    }
+  ]
+}

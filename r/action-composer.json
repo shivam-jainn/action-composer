@@ -1,0 +1,13 @@
+{
+  "name": "action-composer",
+  "type": "registry:ui",
+  "dependencies": [
+    "framer-motion"
+  ],
+  "files": [
+    {
+      "path": "../src/action-composer.tsx",
+      "target": "components/ui/action-composer.tsx"
+    }
+  ]
+}
