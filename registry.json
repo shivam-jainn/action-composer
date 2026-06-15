@@ -1,17 +1,17 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry.json",
   "name": "actioncomposer",
-  "homepage" : "shivamja.in",
+  "homepage": "https://github.com/shivam-jainn/action-composer",
   "items": [
     {
       "name": "actioncomposer",
       "type": "registry:ui",
       "title": "Action Composer",
-      "description": "A component.",
+      "description": "A reusable AI action composer component.",
       "files": [
         {
           "path": "src/action-composer.tsx",
-          "type": "registry:ui"
+          "type": "registry:file"
         }
       ]
     }
