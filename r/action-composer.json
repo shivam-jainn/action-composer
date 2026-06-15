@@ -6,6 +6,7 @@
   ],
   "files": [
     {
+      "type": "registry:ui",
       "path": "../src/action-composer.tsx",
       "target": "components/ui/action-composer.tsx"
     }
